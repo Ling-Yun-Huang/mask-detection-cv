@@ -29,3 +29,7 @@ The project's code is licensed under the MIT License.
 ## Data Availability
 The datasets used in this project are not publicly available due to privacy and copyright restrictions.
 
+- Image Datasets: Two sets of image data (training and testing) were used for model development. These datasets are excluded from this repository.
+- Video Dataset: A video from the Taiwan Centres for Disease Control and Prevention was used for model testing. The video is also not included in this repository but can be accessed via the [Taiwan CDC website](https://www.cdc.gov.tw/Advocacy/SubIndex/2xHloQ6fXNagOKPnayrjgQ?diseaseId=N6XvFa1YP9CXYdB0kNSA9A).
+
+For more detailed information about the datasets, refer to the [data folder](data) in this repository.
