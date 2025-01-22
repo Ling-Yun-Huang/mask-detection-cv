@@ -71,7 +71,7 @@ You can also use standalone functions to test the model:
 ---
 
 # Licensing
-The code is licensed under the [MIT License](LICENSE).
+The code is licensed under the [MIT License](../LICENSE).
 
 ---
 
